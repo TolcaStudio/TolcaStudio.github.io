@@ -18,4 +18,9 @@ header {
 header div {
     display: flex;
     align-items: center;
+
+}
+#headerlink {
+    margin: 5px;
+    padding: 5px;
 }
